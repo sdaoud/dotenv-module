@@ -1,11 +1,12 @@
 {
   "name": "@nuxtjs/dotenv",
   "version": "1.4.1",
-  "description": "A Nuxt.js module that loads your .env file into your context options",
+  "description": "A Nuxt.js module that loads your .env file into your context options. Forked from nuxt-community/dotenv-module",
   "repository": "nuxt-community/dotenv-module",
   "license": "MIT",
   "contributors": [
-    "Julien Tant <julien@craftyx.fr>"
+    "Julien Tant <julien@craftyx.fr>",
+    "Stephen Daoud <steve@stephendaoud.co.uk>"
   ],
   "files": [
     "lib"
